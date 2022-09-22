@@ -1,3 +1,0 @@
-OA_test,OA_train,method,classifier,bandNames
-0.5761,0.9917,OO,RF,"['NDBI_STD_mean', 'gray_corr', 'NDBI_mean', 'B2_mean', 'b3_mean', 'NDBI_MAX_mean', 'gray_idm', 'B8_mean', 'B12_mean', 'B5_mean', 'gray_ent', 'B7_mean', 'b1_mean', 'gray_contrast', 'gray_savg', 'b2_mean', 'gray_var', 'gray_asm']"
-0.4973,0.9863,PB,RF,"['NDBI_STD', 'B2', 'B12', 'b3', 'B8', 'NDBI', 'B5', 'b2', 'NDBI_MAX', 'B7']"
