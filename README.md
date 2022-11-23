@@ -9,3 +9,4 @@ More information on the data fusion contest: https://www.grss-ieee.org/community
 The code started from the work by Tassi, A. and Vizzari, M. You can find their paper here: https://www.mdpi.com/2072-4292/12/22/3776
 
 I presented this work in poster format at Google's 2022 Geo For Good. You can see it here: 
+![This is an image](/Geoforgood2022.jpg)
